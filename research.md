@@ -5,6 +5,7 @@ permalink: /research.html
 ---
 
 ## Publications
+*From newest to oldest*
 
 - **On the isometry group of immortal homogeneous Ricci flows**  
   *The Journal of Geometric Analysis*, vol. 34, no. 173 (2024).  
@@ -15,6 +16,7 @@ permalink: /research.html
   [DOI](https://doi.org/10.2140/pjm.2024.331.187) | [arXiv](https://arxiv.org/abs/2312.16517)
 
 - **Finite time existence of Ricci flows on a family of standard homogeneous spaces**  
-  In preparation.
+  *Preprint (2025)
+  [arXiv](https://arxiv.org/placeholder)
 
 More at [Google Scholar](https://scholar.google.com).
