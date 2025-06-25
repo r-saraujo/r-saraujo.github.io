@@ -3,29 +3,6 @@ html {
   font-size: 18px; /* or 112.5% (for accessibility) */
 }
 
-/* Container to align header content with main text */
-.container {
-  max-width: 900px; /* or whatever your main content width is */
-  margin: 0 auto;   /* centers the container */
-  display: flex;
-  justify-content: space-between; /* name left, nav right */
-  align-items: center; /* vertical center */
-  padding: 1rem 1rem;
-}
-
-.site-name {
-  font-size: 1.1em;
-  font-weight: normal;
-  font-family: Arial, sans-serif;
-  color: #333;
-}
-
-header {
-  background-color: #f8f9fa;
-  border-bottom: 1px solid #ddd;
-}
-
-
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   max-width: 900px;
@@ -47,11 +24,12 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* optional shadow */
 }
 
-/*header {
+header {
       display: flex;
       justify-content: flex-end; /* Align nav to right */
       background-color: #f8f9fa;
-      padding: 1rem 2rem;} */
+      padding: 1rem 2rem;
+} 
 
 /* header {
   text-align: center;
