@@ -11,9 +11,3 @@ I am a Research Associate (Postdoc) in the Institute of Mathematics of the Polis
 I am interested in differential geometry and geometric analysis, with a main focus on manifolds with symmetry. I have been especially interested in geometric flows and special geometries with symmetry and moduli spaces of homogeneous Riemannian metrics under curvature conditions. 
 
 ## Contact 
-
-# Quick Links
-
-#- [Research](research.html)
-#- [Talks & Teaching](talks.html)
-#- [CV](cv.html)
