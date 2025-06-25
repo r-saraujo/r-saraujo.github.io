@@ -43,16 +43,6 @@ h1 {
   margin-bottom: 0.5em;
 }*/
 
-.site-title a {
-  color: #212529;      /* text color */
-  text-decoration: none; /* remove underline */
-}
-
-.site-title a:hover {
-  text-decoration: underline;
-}
-
-
 .homepage-header h1 {
   text-align: center;
   font-size: 1.8em;
