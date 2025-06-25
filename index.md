@@ -13,9 +13,11 @@ I am a postdoc at the <a href="https://www.impan.pl/en/" target="_blank" rel="no
 <p>My full name is Roberto de Santana Araujo, but in academic contexts I typically go only by the surname Araujo.</p>
 </div>
 
+<div style="text-align: center; max-width: 200px; margin: 0 auto;">
 <img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo"
      style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;object-position: center 80%;">
-
+      <div style="font-weight: bold; font-size: 1.2em; color: #222;">Roberto Araujo</div>
+  <div style="font-size: 1em; color: #666; margin-top: 0.2rem;">Mathematician | Postdoc </div> </div>
 </div>
 
 ## Research interests
