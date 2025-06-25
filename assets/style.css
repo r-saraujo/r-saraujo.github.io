@@ -1,13 +1,12 @@
-nav {
-  text-align: center;
-  margin: 20px 0;
+/* Make the site title in the header big and black */
+header h1 {
+  font-size: 2.5em;       /* Bigger font size */
+  color: #000000;         /* Black color */
+  margin-bottom: 0.2em;   /* Optional: add space below title */
 }
-nav a {
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
-  color: #007acc;
-}
-nav a:hover {
-  text-decoration: underline;
+
+/* Optional: also style the subtitle or nav links if you want */
+header p {
+  font-size: 1.2em;
+  color: #333;
 }
