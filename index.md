@@ -4,7 +4,6 @@ title: Home
 ---
 
 ## About me
-[University of Münster](https://www.uni-muenster.de/en/)
 
 <div style="display: flex; align-items: flex-start; gap: 1.5em;">
 
