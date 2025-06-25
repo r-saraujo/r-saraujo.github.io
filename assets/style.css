@@ -43,6 +43,7 @@ h1 {
 }/*space below the name*/
 
 .homepage-header .subtitle {
+  text-align: center;
   font-size: 1em;
   margin-top: 0;
   margin-bottom: 0.5em;
