@@ -19,7 +19,7 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* optional shadow */
 }
 
-/*.site-header {
+/* .site-header {
   display: flex;
   justify-content: space-between; /* name left, nav right */
   align-items: center;            /* vertical centering */
