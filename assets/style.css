@@ -1,4 +1,8 @@
 /* assets/style.css */
+html {
+  font-size: 18px; /* or 112.5% (for accessibility) */
+}
+
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   max-width: 900px;
