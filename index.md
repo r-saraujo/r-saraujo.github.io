@@ -16,7 +16,7 @@ I am a postdoc at the <a href="https://www.impan.pl/en/" target="_blank" rel="no
   <img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo"
        style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; object-position: center 80%; display: block; margin: 0 auto 0.5rem auto;">
   <div style="margin-left: 5px;">
-    <div style="font-weight: bold; font-size: 1.1em; color: #222;">Roberto Araujo</div>
+    <div style="font-weight: bold; font-size: 1.5em; color: #222;">Roberto Araujo</div>
     <div style="font-size: 1em; color: #666;">Mathematician</div>
   </div>
 </div>
