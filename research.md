@@ -14,11 +14,7 @@ permalink: /research.html
   *Pacific Journal of Mathematics* 331-2 (2024), 187–215.  
   [DOI](https://doi.org/10.2140/pjm.2024.331.187) | [arXiv](https://arxiv.org/abs/2312.16517)
 
-- **Ricci flow on a family of standard homogeneous vector bundles**  
+- **Finite time existence of Ricci flows on a family of standard homogeneous spaces**  
   In preparation.
-
-
-- **Title of Paper**, *Journal Name*, Year. [DOI](#)
-- **Another Paper**, *arXiv*, Year. [arXiv](#)
 
 More at [Google Scholar](https://scholar.google.com).
