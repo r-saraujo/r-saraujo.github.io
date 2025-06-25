@@ -69,14 +69,14 @@ h1 {
 nav a {
   margin: 0 1em;
   text-decoration: none;
-  color: orange;
+  color: darkorange;
 }
 nav a:hover {
   text-decoration: underline;
 }
 
 a {
-  color: orange;   /* or use a hex code like #FF8C00 */
+  color: darkorange;   /* or use a hex code like #FF8C00 */
   text-decoration: none; /* optional: remove underline */
 }
 
