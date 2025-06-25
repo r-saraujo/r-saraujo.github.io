@@ -1,8 +1,9 @@
 ---
 layout: default
-<img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo" class="profile-pic">
 title: Home
 ---
+
+<img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo" class="profile-pic">
 
 ## About me
 
