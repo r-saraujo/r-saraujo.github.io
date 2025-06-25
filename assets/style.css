@@ -20,6 +20,13 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* optional shadow */
 }
 
+header {
+      display: flex;
+      justify-content: flex-end; /* Align nav to right */
+      background-color: #333;
+      padding: 1rem 2rem;
+    }
+
 /* header {
   text-align: center;
   margin-bottom: 2em;
