@@ -18,18 +18,26 @@ h1 {
   color: #000;
 } */
 
-.homepage-header {
+/*.homepage-header {
   text-align: center;
   margin-top: 1em;
   margin-bottom: 0.5em;
-}
+}*/
 
 .homepage-header h1 {
+  text-align: center;
   font-size: 1.8em;
   color: black;
   margin-bottom: 0.2em;
-}
+}/*space below the name*/
 
+/*.homepage-header .pronouns {
+  font-size: 0.4em;
+  margin-left: 0.5em;
+  color: #555;
+  vertical-align: super;
+  font-style: italic;
+}*/
 /*.homepage-header .pronouns {
   font-size: 0.4em;
   margin-left: 0.5em;
