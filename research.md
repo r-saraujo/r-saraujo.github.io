@@ -17,5 +17,3 @@ permalink: /research.html
 - **On the isometry group of immortal homogeneous Ricci flows**  
   *The Journal of Geometric Analysis*, vol. 34, no. 173 (2024).
   [DOI](https://doi.org/10.1007/s12220-024-01609-6) | [arXiv](https://arxiv.org/abs/2310.18182)
-
-More at [Google Scholar](https://scholar.google.com).
