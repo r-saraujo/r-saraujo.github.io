@@ -6,10 +6,28 @@
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
+  
   <header>
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+  {% include nav.html %}
+  {% if page.title == "Home" %}
+<div class="homepage-header">
+      <img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo" class="profile-pic">
+      <h1>Roberto Araujo</h1>
+      <p class="subtitle"> Mathematician | Postdoc at IMPAN, Warsaw</p>
+</div> {% endif %}
+</header>
+     <!-- <div class="homepage-header">
+   <h1>Roberto Araujo</h1>
+  <p class="pronouns"><em>he/him</em></p>
+  <p class="subtitle">Mathematician | Postdoc</p>
+    </div>
+  {% endif %} -->
+
+<!--  <header>
     {% include nav.html %}
-  </header>
+    <h1>{{ site.title }} (he/him)</h1>
+    <p>Mathematician | Postdoc at IMPAN, Warsaw</p>
+  </header> -->
 
   <main>
     {{ content }}

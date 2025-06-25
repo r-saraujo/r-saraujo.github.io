@@ -1,13 +1,96 @@
-nav {
-  text-align: center;
-  margin: 20px 0;
+/* assets/style.css */
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  background: #f8f9fa;
+  color: #212529;
+  line-height: 1.6;
 }
+
+.profile-pic {
+  width: 200px;          /* size of your image */
+  height: auto;         /* make height = width for a perfect circle */
+  border-radius: 50%;    /* makes the image circular */
+  object-fit: cover;     /* ensures the image covers the area without distortion */
+  display: block;
+  margin: 0 auto 1em;    /* center and add space below */
+  margin-top: 0.5em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* optional shadow */
+}
+
+/* header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+h1 {
+  margin-bottom: 0.1em;
+  font-size: 1.5em;
+  color: #000;
+} */
+
+/*.homepage-header {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}*/
+
+.homepage-header h1 {
+  text-align: center;
+  font-size: 1.8em;
+  color: black;
+  margin-bottom: 0.2em;
+}/*space below the name*/
+
+.homepage-header .subtitle {
+  text-align: center;
+  font-size: 1em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  color: black;
+}
+
+/*.homepage-header .pronouns {
+  font-size: 0.4em;
+  margin-left: 0.5em;
+  color: #555;
+  vertical-align: super;
+  font-style: italic;
+}*/
+
 nav a {
-  margin: 0 15px;
+  margin: 0 1em;
   text-decoration: none;
-  font-weight: bold;
-  color: #007acc;
+  color: orange;
 }
 nav a:hover {
   text-decoration: underline;
+}
+section {
+  margin-bottom: 2em;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+li {
+  margin-bottom: 0.5em;
+}
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 3em;
+  border-top: 1px solid #ddd;
+  padding-top: 1em;
+}
+a.social {
+  margin: 0 0.5em;
+  text-decoration: none;
+  font-weight: bold;
+  color: #333;
+}
+a.social:hover {
+  color: #0077cc;
 }
