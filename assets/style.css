@@ -8,6 +8,17 @@ body {
   color: #212529;
   line-height: 1.6;
 }
+
+.profile-pic {
+  display: block;
+  margin: 1em auto;
+  width: 180px;
+  height: auto;
+  border-radius: 50%; /* Makes it circular */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+
 /* header {
   text-align: center;
   margin-bottom: 2em;
