@@ -7,7 +7,7 @@ permalink: /research.html
 ## Publications
 *From newest to oldest*
 
-- **Finite time existence of Ricci flows on a family of standard homogeneous spaces**  
+- **Finite time existence of Ricci flows on a family of homogeneous spaces**  
   *Preprint* (2025).
   [arXiv](https://arxiv.org/placeholder)
 
