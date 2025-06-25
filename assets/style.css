@@ -10,13 +10,15 @@ body {
 }
 
 .profile-pic {
+  width: 150px;          /* size of your image */
+  height: 150px;         /* make height = width for a perfect circle */
+  border-radius: 50%;    /* makes the image circular */
+  object-fit: cover;     /* ensures the image covers the area without distortion */
   display: block;
-  margin: 1em auto;
-  width: 180px;
-  height: auto;
-  border-radius: 50%; /* Makes it circular */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  margin: 0 auto 1em;    /* center and add space below */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* optional shadow */
 }
+
 
 
 /* header {
