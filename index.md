@@ -1,6 +1,6 @@
 ---
 layout: default
-<img src="/assets/img/me.jpg" alt="Photo of Dr. Your Name" class="profile-pic">
+<img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo" class="profile-pic">
 title: Home
 ---
 
