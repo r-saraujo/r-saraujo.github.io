@@ -73,7 +73,7 @@ h1 {
 nav a {
   margin: 0 1em;
   text-decoration: none;
-  color: darkorange;
+  color: #CC5500;
 }
 nav a:hover {
   text-decoration: underline;
