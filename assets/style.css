@@ -26,7 +26,7 @@ body {
 
 header {
       display: flex;
-      justify-content: flex-end; /* Align nav to right */
+      justify-content: space-between; /* Align nav to right */
       background-color: #f8f9fa;
       padding: 1rem 2rem;
 } 
