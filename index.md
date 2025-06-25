@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-<img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo" class="profile-pic">
-
 ## About me
 
 I am an Assistant Researcher (Postdoc) at the Institute of Mathematics of the Polish Academy of Sciences (IMPAN), Warsaw, working in the Department of Mathematical Physics and Differential Geometry. I obtained my PhD at the University of Münster, Germany, under the supervision of Christoph Böhm. Previously, I obtained my Master's degree at the Institute of Pure and Applied Mathematics (IMPA), Brazil, and my Bachelor's degree at the University of Brasília (UnB), Brazil.
