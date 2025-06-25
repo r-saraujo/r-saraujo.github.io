@@ -13,7 +13,7 @@ I am a postdoc at the <a href="https://www.impan.pl/en/" target="_blank" rel="no
 </div>
 
 <img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo"
-     style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;object-position: center 60%;">
+     style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;object-position: center 70%;">
 
 </div>
 
