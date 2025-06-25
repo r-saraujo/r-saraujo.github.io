@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Roberto Araujo</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  
- <header>
-  <div style="font-size: 1.1em; font-weight: normal;">Roberto Araujo</div>
-  {% include nav.html %}
+
+<header>
+  <div class="container">
+    <div class="site-name">Roberto Araujo</div>
+    {% include nav.html %}
+  </div>
 </header>
 
-  <main>
-    {{ content }}
-  </main>
+<main class="container">
+  <!-- Your main page content goes here -->
+</main>
 
-  <footer>
-    <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</p>
-  </footer>
 </body>
 </html>
