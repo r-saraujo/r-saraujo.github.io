@@ -74,6 +74,16 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
+
+a {
+  color: orange;   /* or use a hex code like #FF8C00 */
+  text-decoration: none; /* optional: remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* optional: underline on hover */
+}
+
 section {
   margin-bottom: 2em;
 }
