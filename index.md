@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-
 ## About me
 
 <div style="display: flex; align-items: flex-start; gap: 1.5em;">
@@ -13,8 +12,14 @@ I am a postdoc at the <a href="https://www.impan.pl/en/" target="_blank" rel="no
 <p>My full name is Roberto de Santana Araujo, but in academic contexts I typically go only by the surname Araujo.</p>
 </div>
 
-<img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo"
-     style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;object-position: center 80%;">
+<div style="text-align: center;">
+  <img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo"
+       style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; object-position: center 80%; display: block; margin: 0 auto 0.5rem auto;">
+  <div style="margin-left: 5px;">
+    <div style="font-weight: bold; font-size: 1.1em; color: #222;">Roberto Araujo</div>
+    <div style="font-size: 1em; color: #666;">Mathematician&nbsp;&nbsp;|&nbsp;&nbsp;Postdoc</div>
+  </div>
+</div>
 
 </div>
 
