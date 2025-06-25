@@ -1,5 +1,6 @@
 ---
 layout: default
+<img src="/assets/img/me.jpg" alt="Photo of Dr. Your Name" class="profile-pic">
 title: Home
 ---
 
