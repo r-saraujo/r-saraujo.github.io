@@ -31,13 +31,13 @@ h1 {
   margin-bottom: 0.2em;
 }/*space below the name*/
 
-/*.homepage-header .pronouns {
-  font-size: 0.4em;
-  margin-left: 0.5em;
-  color: #555;
-  vertical-align: super;
-  font-style: italic;
-}*/
+.homepage-header .subtitle {;
+  font-size: 1em;
+  margin-top: 0
+  margin-bottom: 0.5em  
+  color: black;
+}
+
 /*.homepage-header .pronouns {
   font-size: 0.4em;
   margin-left: 0.5em;
