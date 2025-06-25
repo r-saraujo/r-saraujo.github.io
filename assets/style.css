@@ -3,14 +3,40 @@ html {
   font-size: 18px; /* or 112.5% (for accessibility) */
 }
 
-body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  max-width: 900px;
-  margin: auto;
-  padding: 20px;
-  background: #f8f9fa;
-  color: #212529;
-  line-height: 1.6;
+/* Container to align content and limit width */
+.container {
+  max-width: 900px; /* adjust to your main content width */
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Header background and border */
+header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Flex layout for header container */
+header .container {
+  display: flex;
+  justify-content: space-between; /* name left, nav right */
+  align-items: center;
+  padding: 1rem 0;
+}
+
+/* Site name styling */
+.site-name {
+  font-size: 1.1em;
+  font-weight: normal;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* Main content styling */
+main.container {
+  padding: 2rem 0;
+  font-family: Arial, sans-serif;
+  color: #222;
 }
 
 .profile-pic {
@@ -23,59 +49,6 @@ body {
   margin-top: 0.5em;
   box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* optional shadow */
 }
-
-header {
-      display: flex;
-      justify-content: space-between; /* Align nav to right */
-      background-color: #f8f9fa;
-      padding: 1rem 2rem;
-} 
-
-header div {
-  font-size: 1.1em;
-  font-weight: normal;
-  color: #333;
-  font-family: Arial, sans-serif;
-}
-
-/* header {
-  text-align: center;
-  margin-bottom: 2em;
-}
-h1 {
-  margin-bottom: 0.1em;
-  font-size: 1.5em;
-  color: #000;
-} */
-
-/*.homepage-header {
-  text-align: center;
-  margin-top: 1em;
-  margin-bottom: 0.5em;
-}*/
-
-.homepage-header h1 {
-  text-align: center;
-  font-size: 1.8em;
-  color: black;
-  margin-bottom: 0.2em;
-}/*space below the name*/
-
-.homepage-header .subtitle {
-  text-align: center;
-  font-size: 1em;
-  margin-top: 0;
-  margin-bottom: 0.5em;
-  color: black;
-}
-
-/*.homepage-header .pronouns {
-  font-size: 0.4em;
-  margin-left: 0.5em;
-  color: #555;
-  vertical-align: super;
-  font-style: italic;
-}*/
 
 nav a {
   margin: 0 1em;
