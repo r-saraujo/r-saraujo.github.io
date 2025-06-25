@@ -16,6 +16,7 @@ body {
   object-fit: cover;     /* ensures the image covers the area without distortion */
   display: block;
   margin: 0 auto 1em;    /* center and add space below */
+  margin-top: 0.5em;
   box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* optional shadow */
 }
 
