@@ -7,15 +7,15 @@
 </head>
 <body>
   
-  <header class="site-header">
-  {% include nav.html %}
-    
+  <header>
   {% if page.title == "Home" %}
 <div class="homepage-header">
       <img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo" class="profile-pic">
       <h1>Roberto Araujo</h1>
       <p class="subtitle"> Mathematician | Postdoc at IMPAN, Warsaw</p>
 </div> 
+    {% endif %}
+    {% include nav.html %}
 </header>
      <!-- <div class="homepage-header">
    <h1>Roberto Araujo</h1>
