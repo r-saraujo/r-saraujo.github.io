@@ -12,8 +12,8 @@ I am interested in differential geometry and geometric analysis, with a main foc
 
 ## Contact 
 
-/*## Quick Links
+# Quick Links
 
-/*- [Research](research.html)
-/*- [Talks & Teaching](talks.html)
-/*- [CV](cv.html)
+#- [Research](research.html)
+#- [Talks & Teaching](talks.html)
+#- [CV](cv.html)
