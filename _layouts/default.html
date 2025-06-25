@@ -6,11 +6,23 @@
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
+  
   <header>
+  {% include nav.html %}
+
+  {% if page.title == "Home" %}
+    <div class="homepage-header">
+      <h1>Dr. Your Name <span class="pronouns">(he/him)</span></h1>
+      <p>Mathematician | Researcher | Educator</p>
+    </div>
+  {% endif %}
+</header>
+
+<!--  <header>
     {% include nav.html %}
     <h1>{{ site.title }} (he/him)</h1>
     <p>Mathematician | Postdoc at IMPAN, Warsaw</p>
-  </header>
+  </header> -->
 
   <main>
     {{ content }}
