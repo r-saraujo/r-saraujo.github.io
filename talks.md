@@ -32,8 +32,13 @@ permalink: /talks.html
 
 ---
 
+## Reading seminars
+- Something, Münster, etc
+
+---
+
 ## Teaching
 
 - *Lie Groups*. Teaching Assistant. University of Münster. Winter Semester 2022. 
 - *Introduction to Measure and Integration Theory*. Teaching Assistant. University of Brasília. Fall 2018.
-- *Geometry I*. Teaching Assistant, University of Brasília. Spring 2017.
+- *Geometry I*. Teaching Assistant. University of Brasília. Spring 2017.
