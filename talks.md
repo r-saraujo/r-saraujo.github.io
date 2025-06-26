@@ -17,9 +17,10 @@ permalink: /talks.html
 - *Oberseminar Geometric Analysis, Differential Geometry and Relativity Theory*, University of Tübingen, Germany. February.  
 
 #### 2022  
-- [*Young Women in Geometric Analysis*](https://ywigeometricanalysis.wordpress.com/?fbclid=IwAR1k8ppntCUQX3k6kHusMKDk7qA9v-3_c6y3IHAhEJljOWra7UPzYmEDVjI) (short talk), Bonn, Germany. June.  
+- [*Young Women in Geometric Analysis*](https://ywigeometricanalysis.wordpress.com/?fbclid=IwAR1k8ppntCUQX3k6kHusMKDk7qA9v-3_c6y3IHAhEJljOWra7UPzYmEDVjI) (short talk), Bonn, Germany. June.
 
 ---
+
 ## Posters
 
 #### 2023  
@@ -33,11 +34,9 @@ permalink: /talks.html
 
 ---
 
-#### I organized the Differential Geometry PhD students' Seminar at the University of Münster from Spring 2022 to Spring 2023.
----
+## Teaching & organizing
 
-## Teaching
-
+- I organized the *Differential Geometry PhD students' Seminar* at the University of Münster from Spring 2022 to Spring 2023.
 - *Lie Groups*. Teaching Assistant. University of Münster. Spring 2022. 
 - *Introduction to Measure and Integration Theory*. Teaching Assistant. University of Brasília. Spring 2018.
 - *Geometry I*. Teaching Assistant. University of Brasília. Spring 2017.
