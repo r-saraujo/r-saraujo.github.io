@@ -4,4 +4,4 @@ title: CV
 permalink: /cv.html
 ---
 
-Download my [CV (PDF)](assets/CV_Araujo_2025Jun.pdf).
+📄 Here you can find my [CV (PDF)](assets/CV_Araujo_2025Jun.pdf).
