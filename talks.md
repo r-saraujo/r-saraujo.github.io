@@ -26,7 +26,7 @@ permalink: /talks.html
 - [*Summer School: Geometric Analysis and PDEs*](https://sites.google.com/view/checiny23/home), Chęciny, Poland. July.  
 
 #### 2022  
-- [*Virtual ICM Satellite Conference: Differential Geometry and its Applications*](https://prf.uhk.cz/dga2022/index.html), Hradec Králové, Czech Republic. July.  
+- [*ICM Satellite Conference: Differential Geometry and its Applications*](https://prf.uhk.cz/dga2022/index.html), Hradec Králové, Czech Republic. July.  
 
 #### 2021  
 - [*Workshop on Curvature and Global Shape*](https://www.uni-muenster.de/Diffgeo/cgs2021/index.html), Münster, Germany. August.  
