@@ -36,7 +36,7 @@ permalink: /talks.html
 
 ## Teaching & organizing
 
-- I organized the *Differential Geometry PhD students' Seminar* at the University of Münster from Spring 2022 to Spring 2023.
+- I organized the *PhD Students' Differential Geometry Seminar* at the University of Münster from Spring 2022 to Spring 2023.
 - *Lie Groups*. Teaching Assistant. University of Münster. Spring 2022. 
 - *Introduction to Measure and Integration Theory*. Teaching Assistant. University of Brasília. Spring 2018.
 - *Geometry I*. Teaching Assistant. University of Brasília. Spring 2017.
