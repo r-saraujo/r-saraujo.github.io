@@ -33,9 +33,7 @@ permalink: /talks.html
 
 ---
 
-## Reading seminars
-- Something, Münster, etc
-
+#### I organized the Differential Geometry PhD students' Seminar at the University of Münster from Spring 2022 to Spring 2023.
 ---
 
 ## Teaching
