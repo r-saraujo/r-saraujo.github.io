@@ -19,7 +19,8 @@ permalink: /talks.html
 #### 2022  
 - [*Young Women in Geometric Analysis*](https://ywigeometricanalysis.wordpress.com/?fbclid=IwAR1k8ppntCUQX3k6kHusMKDk7qA9v-3_c6y3IHAhEJljOWra7UPzYmEDVjI) (short talk), Bonn, Germany. June.  
 
-### Posters
+---
+## Posters
 
 #### 2023  
 - [*Summer School: Geometric Analysis and PDEs*](https://sites.google.com/view/checiny23/home), Chęciny, Poland. July.  
