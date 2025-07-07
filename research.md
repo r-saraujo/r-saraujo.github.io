@@ -7,7 +7,7 @@ permalink: /research.html
 ## Publications
 <div style="margin-top: 1.5em;"></div>
 
-- **Finite time existence of Ricci flows on a family of homogeneous spaces**  
+- **Finite extinction time of a family of homogeneous Ricci flows**  
   *Preprint* (2025).
   [arXiv](https://arxiv.org/placeholder)
 
