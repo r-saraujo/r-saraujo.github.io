@@ -9,7 +9,7 @@ permalink: /research.html
 
 - **Finite extinction time of a family of homogeneous Ricci flows**  
   *Preprint* (2025).
-  [arXiv](https://arxiv.org/placeholder)
+  [arXiv](https://arxiv.org/abs/2507.05097))
 
 - **Long-time behavior of awesome homogeneous Ricci flows**  
   *Pacific Journal of Mathematics* 331-2 (2024), 187–215.
