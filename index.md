@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+<div style="margin-top: 2em;">
 ## About me
 
 <!-- <div style="display: flex; align-items: flex-start; gap: 1.5em;"> -->
@@ -28,6 +28,9 @@ I am a postdoc at the <a href="https://www.impan.pl/en/" target="_blank" rel="no
 
 ## Research interests
 I am interested in differential geometry and geometric analysis, with a main focus on manifolds with symmetry. I have been especially interested in geometric flows with symmetry and moduli spaces of homogeneous Riemannian metrics under curvature conditions. 
+
+</div>
+
 
 ## Contact 
 📧 raraujo [at) impan {dot] pl
