@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<div style="margin-top: 2em;"><\div>
+<div style="margin-top: 2em;"></div>
 ## About me
 
 <!-- <div style="display: flex; align-items: flex-start; gap: 1.5em;"> -->
