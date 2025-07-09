@@ -25,11 +25,11 @@ I am a postdoc at the <a href="https://www.impan.pl/en/" target="_blank" rel="no
 
 
 </div>
+</div>
 
 ## Research interests
 I am interested in differential geometry and geometric analysis, with a main focus on manifolds with symmetry. I have been especially interested in geometric flows with symmetry and moduli spaces of homogeneous Riemannian metrics under curvature conditions. 
 
-</div>
 
 
 ## Contact 
