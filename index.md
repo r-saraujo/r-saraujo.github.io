@@ -6,6 +6,7 @@ title: Home
 ## About me {: style="margin-top: 0.5em;" }
 
 
+
 <!-- <div style="display: flex; align-items: flex-start; gap: 1.5em;"> -->
 <div style="display: flex; align-items: flex-start; gap: 1.5em; margin-top: 1.5em;">
 
