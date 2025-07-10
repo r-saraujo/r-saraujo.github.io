@@ -15,7 +15,7 @@ I am a postdoc at the <a href="https://www.impan.pl/en/" target="_blank" rel="no
 <p>My full name is Roberto de Santana Araujo, but in academic contexts I typically go only by the surname Araujo.</p>
 </div>
 
-<div style="text-align: center; margin-top: -2em;">
+<div style="text-align: center; margin-top: -1.5em;">
   <img src="/assets/img/Araujo_Profile_photo.jpg" alt="Photo of Roberto Araujo"
        style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; object-position: center 80%; display: block; margin: 0 auto 0.5rem auto;">
   <div style="margin-left: 5px;">
