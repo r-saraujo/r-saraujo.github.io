@@ -7,17 +7,17 @@ permalink: /talks.html
 ## Talks
 
 #### 2025  
-- [*Workshop “Complex Geometry and Lie Groups”*](https://complex-geometry-and-lie-groups.org/) (short talk), Osaka, Japan. March.  
+- [*Workshop “Complex Geometry and Lie Groups”*](https://complex-geometry-and-lie-groups.org/), Osaka, Japan. March.  
 - *Differential Geometry Seminar*, Institute of Mathematics of the Polish Academy of Sciences (IM PAN), Warsaw, Poland. March.  
 - *Differential Geometry Seminar*, Instituto de Matemática Pura e Aplicada (IMPA), Rio de Janeiro, Brazil. January.  
 
 #### 2024  
 - *Differential Geometry Seminar*, University of São Paulo, Brazil. June.  
-- [*Symmetry and Geometry in South Florida*](https://sites.google.com/view/sgsf-2024/home-page?authuser=0) (short talk), Miami, USA. February.  
+- [*Symmetry and Geometry in South Florida*](https://sites.google.com/view/sgsf-2024/home-page?authuser=0), Miami, USA. February.  
 - *Oberseminar Geometric Analysis, Differential Geometry and Relativity Theory*, University of Tübingen, Germany. February.  
 
 #### 2022  
-- [*Young Women in Geometric Analysis*](https://ywigeometricanalysis.wordpress.com/?fbclid=IwAR1k8ppntCUQX3k6kHusMKDk7qA9v-3_c6y3IHAhEJljOWra7UPzYmEDVjI) (short talk), Bonn, Germany. June.
+- [*Young Women in Geometric Analysis*](https://ywigeometricanalysis.wordpress.com/?fbclid=IwAR1k8ppntCUQX3k6kHusMKDk7qA9v-3_c6y3IHAhEJljOWra7UPzYmEDVjI), Bonn, Germany. June.
 
 ---
 
