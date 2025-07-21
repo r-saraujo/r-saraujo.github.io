@@ -40,6 +40,5 @@ I am interested in differential geometry and geometric analysis, with a main foc
 
 <a href="https://orcid.org/0009-0006-9283-8338" target="_blank">
   <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD" />
-  My ORCID
-</a>
+</a> My ORCID
 
