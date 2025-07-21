@@ -38,9 +38,10 @@ I am interested in differential geometry and geometric analysis, with a main foc
 
 📫  IM PAN,  Jana i Jędrzeja Śniadeckich 8, 00-656 Warsaw, Poland
 
-<a href="https://orcid.org/0009-0006-9283-8338" target="_blank">
-  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD" />
+<a href="https://orcid.org/0009-0006-9283-8338" target="_blank" style="text-decoration: none;">
+  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD" style="vertical-align: middle;" />
 </a>
-My ORCID
+<span style="margin-left: 4px;">My ORCID</span>
+
 
 
